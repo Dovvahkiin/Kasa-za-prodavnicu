@@ -1,0 +1,77 @@
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csprojResolveAssemblyReference.cache
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.Cache
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+E:\Programiranje\C#\Kasa za prodavnicu\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csprojResolveAssemblyReference.cache
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+E:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.Cache
+C:\Users\bozid\OneDrive\Desktop\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+C:\Users\bozid\OneDrive\Desktop\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+C:\Users\bozid\OneDrive\Desktop\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csprojResolveAssemblyReference.cache
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+F:\Programiranje\C#\Kasa --- maturski (nezavršen)\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.Cache
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csprojResolveAssemblyReference.cache
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+C:\Users\BogaBet\Desktop\Kasa maturski test\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.Cache
+C:\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+C:\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+C:\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csprojResolveAssemblyReference.cache
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+C:\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.Cache
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.AssemblyReference.cache
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.cache
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.CoreCompileInputs.cache
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb
+D:\Programiranje\Programiranje\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.SuggestedBindingRedirects.cache
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe.config
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\bin\Debug\Kasa za prodavnicu.pdb
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.AssemblyReference.cache
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.SuggestedBindingRedirects.cache
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Form1.resources
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.UkupanPrometForm.resources
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa_za_prodavnicu.Properties.Resources.resources
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.GenerateResource.cache
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.csproj.CoreCompileInputs.cache
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.exe
+E:\Programiranje\C#\Maturski rad\Kasa\Kasa za prodavnicu\obj\Debug\Kasa za prodavnicu.pdb

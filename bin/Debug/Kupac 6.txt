@@ -1,0 +1,10 @@
+luka     10 komada     100 RSD     (10 RSD)
+-------------------------------------------------
+Račun iznosi:  100 RSD
+ 
+Bonus popust: 0,00%.
+Ukupno:  100 RSD
+------------------------
+Uplaceno: 500 RSD
+------------------------
+Kusur: 400 RSD

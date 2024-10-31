@@ -1,0 +1,11 @@
+jaja     5 komada     100 RSD     (20 RSD)
+krompir     5 komada     50 RSD     (10 RSD)
+-------------------------------------------------
+Račun iznosi:  150 RSD
+ 
+Bonus popust: 0,00%.
+Ukupno:  150 RSD
+------------------------
+Uplaceno: 1000 RSD
+------------------------
+Kusur: 850 RSD
